@@ -12,6 +12,7 @@
 	"institutions" : "[ 'Beth Isreal Deaconess Medical Center' ]",
 	"keywords" : "[ 'example', 'communicator', 'webclient' ]",
 	"package" : "https://github.com/i2b2plugins/wc-devExamp4-comm/archive/v1.4.zip",
+	"icon" : "https://raw.githubusercontent.com/i2b2plugins/wc-devExamp4-comm/master/i2b2-icon.png",
 	"userManual" : "",
 	"installGuide" : "",
 	"configuration" : "None",
